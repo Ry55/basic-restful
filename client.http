@@ -1,3 +1,7 @@
+GET http://localhost:3000/hello
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyUHJvZmlsZSI6eyJ1c2VybmFtZSI6InJ5IiwicGFzc3dvcmQiOiIxMjMiLCJuYW1lIjoiTGltIFJ1IFlpbmciLCJlbWFpbCI6IjEyM0BnbWFpbC5jb20ifSwiaWF0IjoxNjgxMTExNTIxLCJleHAiOjE2ODExMTUxMjF9.fHYmdGWEWxOyXUfNCh9eSA8rJPuHAAXb6xGSDIfvUH4
+
+###
 POST  http://localhost:3000/login
 Content-Type: application/json
 
